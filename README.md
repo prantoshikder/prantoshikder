@@ -44,28 +44,6 @@ Senior Frontend Engineer with over 4 years of experience building high-performan
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **BiteCraft** | Luxury restaurant management & online food ordering SaaS platform featuring an interactive admin dashboard. | Next.js, React, Tailwind CSS | [Live Demo](https://bitecraft-ps.vercel.app/) \| [GitHub](#) |
-| **Personal Portfolio** | Dynamic personal website highlighting frontend achievements, metric benchmarks, and timeline experience. | Next.js, TypeScript, Tailwind CSS | [Live Demo](https://prantoshikder.vercel.app/) \| [GitHub](https://github.com/prantoshikder) |
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prantoshikder&show_icons=true&theme=dark&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prantoshikder&layout=compact&theme=dark&hide_border=true" height="150" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prantoshikder&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 <div align="center">
   <p><i>Crafted with precision by Pranto Shikder</i></p>
 </div>
